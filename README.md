@@ -7,9 +7,11 @@ git clone https://github.com/nikosaputraa/Helpdesk-Ticketing-System.git
 composer install
 
 php artisan key:generate
+
 php artisan migrate --seed
 
 npm build
+
 npm run build
 
 php artisan serve
