@@ -16,4 +16,4 @@ npm run build
 
 php artisan serve
 
-*Database can import forom sql file in Folder Database
+*Database can import from sql file in Folder Database
