@@ -17,3 +17,7 @@ npm run build
 php artisan serve
 
 *Database can import from sql file in Folder Database
+
+Akun :
+email : admin@gmail.com
+pw : password
