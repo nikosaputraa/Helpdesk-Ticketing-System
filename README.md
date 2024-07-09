@@ -8,9 +8,9 @@ composer install
 
 php artisan key:generate
 
-php artisan migrate --seed
+php artisan migrate --seed / import database .sql
 
-npm build
+npm install
 
 npm run build
 
